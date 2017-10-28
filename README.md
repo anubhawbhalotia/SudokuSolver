@@ -1,5 +1,5 @@
 # SudokuSolver
-Program that solves sudoku written on C for Windows.
+A C program that solves Sudoku. Made as a part of Hackathon at NIT Hamirpur in first year.
 
 A Sudoku Solver written in C language. 
 
